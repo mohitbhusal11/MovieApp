@@ -5,7 +5,7 @@ import './App.css';
 import MovieCard from "./MovieCard";
 
 //key: 1a61fc19
-const API_URL = 'http://www.omdbapi.com?apikey=1a61fc19/:splat  200'
+const API_URL = 'http://www.omdbapi.com?apikey=1a61fc19'
 // const SearchIcon = 'https://openclipart.org/image/2400px/svg_to_png/213239/Search-icon.png';
 const movie1 = {
   "Title": "Spiderman in Cannes",
